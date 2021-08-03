@@ -3,4 +3,5 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
 
+googleAnalytics = "G-WSR4LY61TK"
 disqusShortname = "mugenbatscha-me"
