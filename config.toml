@@ -1,7 +1,7 @@
 baseURL = "http://mugenbatscha.me/"
 languageCode = "en-us"
 title = "It's Me"
-theme = "minimal"
+theme = "hermit"
 
 googleAnalytics = "G-WSR4LY61TK"
 disqusShortname = "mugenbatscha-me"
