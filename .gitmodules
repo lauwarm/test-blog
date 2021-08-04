@@ -1,3 +1,45 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/newsroom"]
+	path = themes/newsroom
+	url = https://github.com/onweru/newsroom.git
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "hugo-theme-yuki"]
+	path = hugo-theme-yuki
+	url = https://github.com/iCyris/hugo-theme-yuki
+[submodule "hugo-nederburg-theme"]
+	path = hugo-nederburg-theme
+	url = https://github.com/appernetic/hugo-nederburg-theme.git
+[submodule "themes/elephants"]
+	path = themes/elephants
+	url = https://gitlab.com/meibenny/elephants.git
+[submodule "arabica"]
+	path = arabica
+	url = https://github.com/nirocfz/arabica
+[submodule "hugo-theme-chunky-poster"]
+	path = hugo-theme-chunky-poster
+	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
+[submodule "vienna"]
+	path = vienna
+	url = https://github.com/keichi/vienna
+[submodule "themes/pulp"]
+	path = themes/pulp
+	url = https://github.com/koirand/pulp.git
+[submodule "themes/hugo-swift-theme"]
+	path = themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes/hugo-story"]
+	path = themes/hugo-story
+	url = https://github.com/caressofsteel/hugo-story.git
+[submodule "themes/photophobia"]
+	path = themes/photophobia
+	url = https://github.com/setsevireon/photophobia.git
+[submodule "themes/hugo-winston-theme"]
+	path = themes/hugo-winston-theme
+	url = https://github.com/zerostaticthemes/hugo-winston-theme.git
